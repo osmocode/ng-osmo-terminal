@@ -1,1 +1,5 @@
-# ng-osmo-terminal
+# Start demo
+
+```bash
+npm start
+```
