@@ -1,0 +1,1 @@
+# ng-osmo-terminal
